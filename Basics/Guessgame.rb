@@ -12,4 +12,7 @@ while userguess != randomnum do
         puts "Correct!!"
     end
 end 
-
+puts "You guessed the number #{randomnum} correctly!"
+puts "Thanks for playing!"
+puts "Goodbye!"
+exit
